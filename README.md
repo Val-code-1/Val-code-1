@@ -1,5 +1,14 @@
 ## Hello there 👋
 
+My friends with careers in coding decided at the start of this year that I would be good at it and took it upon themselves to teach me. 
+
+##### Things I've Created While Learning
+
+- Dice Roller
+- Password Generator
+- Fun Quiz Page
+- Weather Forecast
+- Magic The Gathering Card Search
 <!--
 **Val-code-1/Val-code-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
