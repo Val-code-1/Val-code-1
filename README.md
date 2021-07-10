@@ -2,7 +2,7 @@
 
 My friends with careers in coding decided at the start of this year that I would be good at it and took it upon themselves to teach me. 
 
-##### Things I've Created While Learning
+##### Things I've Created
 
 - Dice Roller
 - Password Generator
