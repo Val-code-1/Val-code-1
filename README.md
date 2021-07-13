@@ -9,6 +9,9 @@ My friends with careers in coding decided at the start of this year that I would
 - Fun Quiz Page
 - Weather Forecast
 - Magic The Gathering Card Search
+
+
+I'm really enjoying working with React and I'm hoping I can use it in my future career.
 <!--
 **Val-code-1/Val-code-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
