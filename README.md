@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My friends with careers in coding decided at the start of this year that I would be good at it and took it upon themselves to teach me. 
+Been busy working on projects, teaching myself new technologies. Always something more to learn. 
 
 ##### Things I've Created
 
@@ -9,6 +9,7 @@ My friends with careers in coding decided at the start of this year that I would
 - Fun Quiz Page
 - Weather Forecast
 - Magic The Gathering Card Search
+- Social Gaming Platform
 
 
 I'm really enjoying working with React and I'm hoping I can use it in my future career.
